@@ -1,6 +1,6 @@
 ## Laravel JWT Boilerplate
 
-[![Build Status](https://travis-ci.com/GeoffSelby/laravel-jwt-boilerplate.svg?branch=master)](https://travis-ci.org/GeoffSelby/laravel-jwt-boilerplate)
+[![Build Status](https://travis-ci.com/GeoffSelby/laravel-jwt-boilerplate.svg?branch=master)](https://travis-ci.com/GeoffSelby/laravel-jwt-boilerplate)
 
 This boilerplate is meant to be used to rapidly build an API with Laravel using JWT authentication.
 
